@@ -1,0 +1,51 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-size: 1.1em;
+}
+
+h1,
+h2 {
+  color: #e63946;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  font-size: 2em;
+  color: #1d3557;
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: 2.5em;
+  color: #457b9d;
+  text-decoration: none;
+}
+
+.title-image {
+  border-radius: 15%;
+  height: auto;
+  width: 70%;
+}
+
+.recipe-image {
+  border-radius: 15%;
+  height: auto;
+  width: 50%;
+}
+
+.container {
+  text-align: left;
+  margin: auto 10%;
+}
+
+.container ul {
+  list-style: inside;
+}
